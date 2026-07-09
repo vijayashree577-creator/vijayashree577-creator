@@ -1,5 +1,5 @@
 # 💫 About Me:
-UI/UX DESIGNER | FULLSTACK DEVELOPER | DATA ANALYST<br>"Turning ideas into intelligent solutions through code."
+UI/UX DESIGNER | FULLSTACK DEVELOPER | DATA ANALYST<br>"Every bug is an opportunity to learn something new."
 
 
 ## 🌐 Socials:
